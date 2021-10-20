@@ -5,4 +5,4 @@ numeros.forEach(function(numero){
     suma +=numero
 })
 
-console.log(suma)
+console.log(`La suma de todos los numeros es ${suma}`)

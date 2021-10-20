@@ -6,5 +6,5 @@ for (num of numeros){
 }
 promedio = promedio / numeros.length
 
-console.log(promedio)
+console.log(`El promedio es ${promedio}`)
 
